@@ -1,4 +1,4 @@
-Hello! My name is Ben! I am learning to code and design games in order to make the game I always dreamed of making!
+Hello! My name is Ben!
 
 Im a student going for a CS degree.
 I currently am familiar with some C#, Java, Javascript, php, react/jsx, html, css, c++, and some python
