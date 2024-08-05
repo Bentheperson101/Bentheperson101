@@ -7,7 +7,9 @@ I have made a unity game before as a project for class and I am trying to learn 
 
 Check out my website (benjiweb.com) for more about me!
 
-If for some reason you wish to contact me, you can reach me at my email benkosty@outlook.com
+If for some reason you wish to contact me, you can reach me at my emails:
+Professional Inquiries: benkosty@outlook.com
+Other: bentheperson101@gmail.com
 
 <!---
 Bentheperson101/Bentheperson101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
