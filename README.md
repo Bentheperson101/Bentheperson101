@@ -5,7 +5,7 @@ I currently am familiar with some C#, Java, Javascript, php, sql, react/jsx, htm
   
 I have made a unity game before as a project for class and I am trying to learn a lot about websites and using the MERN stack.
 
-Check out my website (benjiweb.com) for more about me!
+In the process of making a personal website, see it's progress so far: benjiweb.com
 
 If for some reason you wish to contact me, you can reach me at my emails:
 Professional Inquiries: benkosty@outlook.com
