@@ -7,6 +7,8 @@ I have made a unity game before as a project for class and I am trying to learn 
 
 In the process of making a personal website, see it's progress so far: benjiweb.com
 
+Linked In: https://www.linkedin.com/in/benjamin-kosty-7a6229321/
+
 If for some reason you wish to contact me, you can reach me at my emails:
 
 Professional Inquiries: benkosty@outlook.com
