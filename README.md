@@ -3,7 +3,7 @@
 
 <h3>⌚ At the moment I'm:</h3>
 
-- Looking for a full time position in software development
+- Looking for a full time position in software development/web development/similar
 - Working on a MERN social media project I did for my last semester in college: [guilddotlfg.com](https://www.guilddotlfg.com/)
 
 <h3>📚 I’m currently learning:</h3> 
