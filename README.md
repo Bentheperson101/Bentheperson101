@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/Bentheperson101/bentheperson101.github.io/main/public/images/mountains.jpg "Header")
-<h1 align="center">I'm Benjamin Kosty</h1>
+<h1 align="center">I'm Benjamin!</h1>
 
 <h3>⌚ At the moment I'm:</h3>
 
